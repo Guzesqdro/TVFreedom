@@ -1,18 +1,21 @@
 # 🎉 Welcome to TVFreedom 🌐📺
-Your ultimate destination for live sports streaming in crystal-clear HD 💎! Whether you’re a football fanatic ⚽, basketball lover 🏀, tennis enthusiast 🎾, or just a sports addict 🏆, this platform brings you hundreds of channels 📡 from around the world 🌍 – completely free ✨.
 
-🚀 Main Features:
+**Your ultimate destination for live sports streaming in crystal-clear HD 💎! Whether you’re a football fanatic ⚽, basketball lover 🏀, tennis enthusiast 🎾, or just a sports addict 🏆, this platform brings you hundreds of channels 📡 from around the world 🌍 – completely free ✨.**
 
-📺 Live TV Channels: Football leagues ⚽, NBA & basketball 🏀, tennis tournaments 🎾, motorsports 🏎️, and more.
+**🚀 Main Features:**
 
-🔍 Search & Filter: Easily find your favorite matches by category 🎯.
+**📺 Live TV Channels: Football leagues ⚽, NBA & basketball 🏀, tennis tournaments 🎾, motorsports 🏎️, and more.**
 
-💻 Smooth Player: Fullscreen immersive video playback 🎥🎶.
+**🔍 Search & Filter: Easily find your favorite matches by category 🎯.**
 
-🛡️ Ad-Free Experience: Only if you follow the step-by-step setup (uBlock Origin 🧩 + 1.1.1.1 DNS 🌩️).
+**💻 Smooth Player: Fullscreen immersive video playback 🎥🎶.**
 
-⚠️ Important Notice: Without these tools, you risk being bombed 💣 with ads 🔞 and unsafe links 🚫.
+**🛡️ Ad-Free Experience: Only if you follow the step-by-step setup (uBlock Origin 🧩 + 1.1.1.1 DNS 🌩️).**
 
-💡 Designed with a sleek modern interface ✨, animated background 🌌, and a user-friendly layout 🎨, TVFreedom makes streaming fun and safe 🎯.
+**⚠️ Important Notice: Without these tools, you risk being bombed 💣 with ads 🔞 and unsafe links 🚫.**
 
-📩 For support, you can reach the creator via Instagram 👉 @guzesqdro
+**💡 Designed with a sleek modern interface ✨, animated background 🌌, and a user-friendly layout 🎨, TVFreedom makes streaming fun and safe 🎯.**
+
+**📩 For support, you can reach the creator via Instagram 👉 @guzesqdro**
+
+# VIEW WEBSITE IN GUZESQDRO.GITHUB.IO/TVFREEDOM[GUZESQDRO.GITHUB.IO/TVFREEDOM]
