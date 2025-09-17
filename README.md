@@ -1,21 +1,24 @@
-# 🎉 Welcome to TVFreedom 🌐📺
+# 📺 TVFreedom – Live Sports Streaming in HD ⚽🏀🎾🏆
 
-**Your ultimate destination for live sports streaming in crystal-clear HD 💎! Whether you’re a football fanatic ⚽, basketball lover 🏀, tennis enthusiast 🎾, or just a sports addict 🏆, this platform brings you hundreds of channels 📡 from around the world 🌍 – completely free ✨.**
+**TVFreedom** 🌐 is a modern platform for streaming **live sports channels** from around the world 🌍, completely free 🎉.  
 
-**🚀 Main Features:**
+## 🚀 Features
+- 📡 **Live Channels** – Football ⚽, Basketball 🏀, Tennis 🎾, Motorsports 🏎️, and more.  
+- 🔍 **Filter & Search** – Quickly find your favorite channel or match 🎯.  
+- 🎥 **Smooth Streaming** – Fullscreen player, crystal clear HD quality 💎.  
+- 🛡️ **Ad-Free Experience** – Works only if you follow the recommended setup (uBlock Origin + 1.1.1.1 DNS 🌩️).  
+- 🌌 **Modern UI** – Animated background, clean design, and user-friendly experience ✨.  
 
-**📺 Live TV Channels: Football leagues ⚽, NBA & basketball 🏀, tennis tournaments 🎾, motorsports 🏎️, and more.**
+## ⚠️ Important Notice
+To ensure the best streaming experience, please:  
+- 🧩 Install **uBlock Origin** (Chrome/Firefox).  
+- 🌩️ Use **1.1.1.1 DNS** (only if necessary).  
+- 🚫 Without these tools, you may be bombed 💣 with unsafe ads 🔞.  
 
-**🔍 Search & Filter: Easily find your favorite matches by category 🎯.**
+## 📩 Contact
+For help or issues, reach out on Instagram 👉 [@guzesqdro](https://instagram.com/guzesqdro) 📱  
 
-**💻 Smooth Player: Fullscreen immersive video playback 🎥🎶.**
+---
 
-**🛡️ Ad-Free Experience: Only if you follow the step-by-step setup (uBlock Origin 🧩 + 1.1.1.1 DNS 🌩️).**
-
-**⚠️ Important Notice: Without these tools, you risk being bombed 💣 with ads 🔞 and unsafe links 🚫.**
-
-**💡 Designed with a sleek modern interface ✨, animated background 🌌, and a user-friendly layout 🎨, TVFreedom makes streaming fun and safe 🎯.**
-
-**📩 For support, you can reach the creator via Instagram 👉 @guzesqdro**
-
-# VIEW WEBSITE IN GUZESQDRO.GITHUB.IO/TVFREEDOM[GUZESQDRO.GITHUB.IO/TVFREEDOM]
+❤️ Made with passion for sports fans 🎉⚽🏀🎾  
+**No ads, no tracking, just pure entertainment!** 🚀🔥
